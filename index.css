@@ -85,7 +85,7 @@ body {
 }
 
 #profile_img_blog {
-  border-radius: 10px;
+  border-radius: 10%;
   width: 90px;
   height: 90px;
   background-size: cover ;
@@ -229,7 +229,7 @@ body {
   min-height: 180px;
   max-width: 180px;
   max-height: 180px;
-  border-radius: 70%;
+  border-radius: 10%;
   background-size: cover ;
   background-repeat: no-repeat;
 }
